@@ -1,0 +1,26 @@
+listing_id,neighborhood,property_type,bedrooms,sqft,list_price,days_on_market
+201,Riverside,House,2,2131,536000,63
+202,Oak Park,Townhouse,1,1058,201000,31
+203,Downtown,Apartment,5,922,266000,98
+204,Riverside,Condo,5,3736,979000,71
+205,Lakeview,Apartment,2,1685,528000,119
+206,Maple Grove,Condo,5,3693,1001000,52
+207,Lakeview,Apartment,3,2394,408000,29
+208,Downtown,Condo,1,1984,496000,1
+209,Maple Grove,House,1,3499,661000,116
+210,Downtown,Condo,1,1953,385000,63
+211,Riverside,Apartment,2,2808,537000,61
+212,Downtown,House,4,1379,361000,46
+213,Hillcrest,House,4,2283,603000,83
+214,Hillcrest,Townhouse,1,848,242000,14
+215,Riverside,Apartment,2,1384,240000,24
+216,Riverside,House,3,2494,561000,111
+217,Downtown,House,5,1001,315000,119
+218,Hillcrest,Apartment,2,1281,296000,111
+219,Riverside,Apartment,4,840,126000,50
+220,Oak Park,Apartment,3,2463,661000,94
+221,Maple Grove,Apartment,5,3311,583000,38
+222,Lakeview,House,2,839,232000,8
+223,Hillcrest,Condo,1,2992,477000,66
+224,Downtown,House,1,1361,360000,31
+225,Lakeview,Condo,4,1091,271000,6

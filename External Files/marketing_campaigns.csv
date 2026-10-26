@@ -1,0 +1,41 @@
+record_id,campaign,channel,week,impressions,clicks,spend,conversions
+1,Back to School,Search Ads,4,15745,487,2777.99,25
+2,Back to School,Display Ads,6,39814,1186,3737.37,134
+3,Spring Sale,Email,4,6220,204,2171.77,6
+4,Summer Launch,Search Ads,5,50745,2742,883.66,283
+5,Spring Sale,Influencer,5,44651,1812,3747.5,55
+6,Spring Sale,Influencer,3,22601,524,1307.69,42
+7,Back to School,Influencer,8,49942,1007,1229.15,111
+8,Holiday Promo,Search Ads,1,11658,170,313.12,16
+9,Holiday Promo,Influencer,7,39335,711,2375.36,22
+10,Back to School,Influencer,3,24536,914,1890.21,22
+11,Spring Sale,Search Ads,4,52795,2901,2823.65,251
+12,Holiday Promo,Influencer,3,51357,2516,3725.33,109
+13,Summer Launch,Display Ads,1,26299,1546,963.63,173
+14,Summer Launch,Search Ads,3,58964,2954,3213.29,91
+15,Summer Launch,Social Media,8,10075,533,1593.74,54
+16,Summer Launch,Display Ads,6,34831,736,1330.83,19
+17,Holiday Promo,Influencer,6,41585,1145,3775.18,36
+18,Back to School,Email,2,39237,742,2507.31,40
+19,Spring Sale,Display Ads,4,46114,1467,1242.47,133
+20,Summer Launch,Search Ads,7,5221,187,558.9,16
+21,Spring Sale,Search Ads,5,48279,1987,2767.5,104
+22,Summer Launch,Display Ads,7,43752,1650,2806.08,181
+23,Spring Sale,Search Ads,5,79593,1993,1077.68,196
+24,Holiday Promo,Social Media,8,47237,1570,3236.82,182
+25,Back to School,Influencer,6,27241,1169,645.53,134
+26,Summer Launch,Social Media,3,35784,1561,390.37,69
+27,Spring Sale,Display Ads,7,67277,2729,3578.71,211
+28,Summer Launch,Social Media,1,55328,1920,3602.84,203
+29,Summer Launch,Social Media,8,18970,928,485.81,41
+30,Holiday Promo,Influencer,6,20906,686,3815.15,74
+31,Holiday Promo,Social Media,8,71162,2230,1965.26,212
+32,Holiday Promo,Social Media,5,41347,1996,1927.53,182
+33,Back to School,Influencer,2,35735,842,811.98,36
+34,Spring Sale,Display Ads,7,25028,1134,1524.26,75
+35,Holiday Promo,Display Ads,1,13161,267,3469.91,25
+36,Back to School,Search Ads,7,54857,1856,3457.76,214
+37,Summer Launch,Display Ads,4,59921,2211,1309.86,151
+38,Holiday Promo,Social Media,8,55968,1500,3702.3,177
+39,Holiday Promo,Influencer,1,75008,851,610.61,53
+40,Back to School,Display Ads,6,65515,1250,1083.14,65

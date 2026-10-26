@@ -1,0 +1,21 @@
+customer_id,customer_name,account_type,branch,join_year
+1,Ana Torres,Savings,Airport,2015
+2,Ben Carter,Checking,Northgate,2023
+3,Cara Liu,Checking,Northgate,2022
+4,Dev Patel,Credit Card,Airport,2016
+5,Eli Brooks,Checking,Westside,2026
+6,Fay Nguyen,Checking,Northgate,2023
+7,Gus Romero,Checking,Airport,2016
+8,Hana Kim,Checking,Main St,2022
+9,Ivan Petrov,Checking,Westside,2022
+10,Jade Ortiz,Credit Card,Northgate,2023
+11,Kai Morgan,Credit Card,Northgate,2021
+12,Lena Fischer,Savings,Airport,2018
+13,Max Reyes,Savings,Westside,2021
+14,Nia Okafor,Checking,Westside,2016
+15,Omar Haddad,Savings,Airport,2020
+16,Pia Lund,Credit Card,Northgate,2015
+17,Quinn Hayes,Savings,Northgate,2024
+18,Rosa Diaz,Credit Card,Airport,2017
+19,Sam Walsh,Savings,Airport,2020
+20,Tara Singh,Savings,Airport,2022
